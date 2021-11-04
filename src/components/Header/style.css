@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    width: 100%;
+    max-width: 1100px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li {
+    margin: 0 10px;
+}

@@ -1,0 +1,12 @@
+section {
+    height: 320px;
+    border: 5px solid black;
+    padding-top: 250px;
+    text-align: center;
+    color: white;
+
+    background-image: url("https://cdn.pixabay.com/photo/2021/10/27/03/37/road-6745746_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
